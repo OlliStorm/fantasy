@@ -10,6 +10,10 @@ button {
     float: right;
 }
 
+h3 {
+    margin-top: 45px;
+}
+
 input {
     width: 100%;
     padding: 7px;

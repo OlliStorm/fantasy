@@ -92,7 +92,69 @@ let ideas = [
     <li>
         <h4>Adamantium</h4>
         <p>Rubinrotes Metall, welches nur in den tiefsten Schichten zu finden ist. Seltener als Palladium. Hat eine extrem hohe Dichte und eine extrem hohe Schmelztemperatur.</p>
-    </li>`
+    </li>
+    <li>
+        <h4>Orchadium</h4>
+        <p>Metall, welches nur an den tiefsten Stellen von Meeren vorkommt. Schwerkraft wirkt Unterwasser nicht.</p>
+    </li>
+    <li>
+        <h4>Atlantis Stahl</h4>
+        <p>Legierung aus Orchadium und weißem Stahl. Gleiche Eigenschaften wie bei Orchadium.</p>
+    </li>
+    <li>
+        <h4>Weißer Stahl</h4>
+        <p>Legierung aus Silber, Platin und Quarz. Dunkle Variante nicht möglich.</p>
+    </li>
+    <li>
+        <h4>Meteoritenstahl</h4>
+        <p>Meteoritenstaub, welcher mit gewöhnlichem Stahl gebunden wurde.</p>
+    </li>
+    <li>
+        <h4>Mythril</h4>
+        <p>Extrem seltenes Metall, welches ausschließlich in magischen Regionen vorkommt. Extrem leicht dafür wie stabil es ist.</p>
+    </li>
+    <li>
+        <h4>Chleonix</h4>
+        <p>Pinke Legierung aus Palladium, Mythril und Kobalt.</p>
+    </li>
+    <li>
+        <h4>Schattenstahl</h4>
+        <p>Legierung aus Adamantium und dunklem Gestein. Dunkle Variante nicht möglich. Verstärkte Stabilität bei Dunkelheit.</p>
+    </li>
+    <li>
+        <h4>Schatten-Mythril</h4>
+        <p>Legierung aus Mythril und Schattenstahl. Dunkle Variante nicht möglich. Gleiche Eigenschaften wie bei Schattenstahl.</p>
+    </li>
+    <li>
+        <h4>Dämonit</h4>
+        <p>Seltenes Metall, welches nicht natürlich in der Oberwelt vorkommt. Lässt sich nur durch Strom erhitzen.</p>
+    </li>
+    <li>
+        <h4>Sternenstahl</h4>
+        <p>Legierung aus Mythril und Sternenstaub. Absorbiert Energie durch das Licht der Sterne. Muss bei Vollmond an einer magischen Stelle geschmiedet werden.</p>
+    </li>
+    <li>
+        <h4>Formbares Element 0</h4>
+        <p>Legierung aus weißem Stahl und Element 0.</p>
+    </li>
+    <li>
+        <h4>Glänzendes Chleonix</h4>
+        <p>Legierung aus Chleonix und Sternenstaub. Gleiche Eigenschaften wie bei Sternenstahl.</p>
+    </li>
+    <li>
+        <h4>Dämonenstahl</h4>
+        <p>Legierung aus Schattenstahl und Dämonit.</p>
+    </li>
+    <li>
+        <h4>Höllenstahl</h4>
+        <p>Legierung aus Dämonit und dunklem Mythril. Benötigt eine Opfergabe in Kombination mit einem magischen Ritual um hergestellt werden zu können.</p>
+    </li>
+    <li>
+        <h4>Infernit</h4>
+        <p>Legierung aus Höllenstahl und Meteoritenstaub. Inferno Variante nicht möglich.</p>
+    </li>
+    <==Metall-Verbesserungen==>Darma-Variante<br>Magische Variante<br>Dunkle Variante<br>Inferno-Variante<br>Stellare Variante
+`
     },
     {
         "title": "Morlocks",
@@ -104,7 +166,7 @@ let ideas = [
     },
     {
         "title": "Vicani",
-        "description": "Die Vicani sind eine humanoide Spezies, die sich von den Menschen durch ihre übergroßen Nasen unterscheiden. Diese Nasen verleihen ihnen einen außergewöhnlichen Geruchssinn, mit dem sie wertvolle Materialien wie Edelsteine aufspüren können. Die Vicani sind vor allem als Händler bekannt, die in verschiedenen Regionen der Welt tätig sind. Sie haben einen ausgeprägten Sinn für Geschäft und Profit und werden oft als gierig und egoistisch beschrieben. Die Vicani leben in Koexistenz mit den Menschen, aber sie sind deutlich in der Minderheit. Sie bevorzugen städtische Gebiete oder Handelsrouten, wo sie sich als Kaufleute, Schmuggler, Diebe oder Hehler einen Namen machen. Die Vicani haben keine eigene Kultur oder Religion entwickelt, sondern passen sich an die lokalen Gegebenheiten an. Sie haben auch keine feste Loyalität oder Moralvorstellungen, sondern handeln nach dem Prinzip des größten Nutzens für sich selbst. Die Vicani sind oft in Konflikte mit anderen Spezies oder Gruppen involviert, da sie ihre Interessen verteidigen oder ausnutzen wollen. Sie können sowohl Verbündete als auch Feinde sein, je nachdem, wie es ihnen nützt. Die Vicani sind auch für einige überraschende Entdeckungen und Geheimnisse verantwortlich, die das Verständnis der Welt und ihrer Geschichte beeinflussen."
+        "description": "Die Vicani sind eine von mehreren humanoiden Spezies, die auf dem Planeten Xylo leben. Sie zeichnen sich durch ihre übergroßen Nasen aus, die ihnen einen außergewöhnlichen Geruchssinn verleihen. Mit diesem Geruchssinn können sie wertvolle Materialien wie Edelsteine aufspüren, was ihnen einen Vorteil im Handel verschafft. Die Vicani sind vor allem als Händler bekannt, die in verschiedenen Regionen der Welt tätig sind. Sie haben einen ausgeprägten Sinn für Geschäft und Profit und werden oft als gierig und egoistisch beschrieben. <==Anatomie und Physiologie==> Die Vicani sind humanoid und haben eine ähnliche Größe und Gestalt wie die Menschen. Der auffälligste Unterschied ist ihre Nase, die deutlich größer ist als die der Menschen. Die Nase ist mit zahlreichen Rezeptoren ausgestattet, die es den Vicani ermöglichen, feinste Gerüche wahrzunehmen. Die Vicani können nicht nur verschiedene Düfte unterscheiden, sondern auch ihre Quelle lokalisieren. Dies ist besonders nützlich für die Suche nach wertvollen Materialien wie Edelsteinen, die einen charakteristischen Geruch haben. Die Vicani haben eine ähnliche Lebenserwartung wie die Menschen, aber sie altern schneller. Sie erreichen die Geschlechtsreife mit etwa 10 Jahren und werden selten älter als 60 Jahre. Die Vicani sind omnivor und haben keine besonderen Ernährungsbedürfnisse. Sie sind jedoch anfällig für bestimmte Krankheiten, die ihre Nasenschleimhaut schädigen können. <==Kultur und Gesellschaft==> Die Vicani haben keine eigene Kultur oder Religion entwickelt, sondern passen sich an die lokalen Gegebenheiten an. Sie leben in Koexistenz mit den Menschen, aber sie sind deutlich in der Minderheit. Sie bevorzugen städtische Gebiete oder Handelsrouten, wo sie sich als Kaufleute, Schmuggler, Diebe oder Hehler einen Namen machen. Die Vicani haben keine feste Loyalität oder Moralvorstellungen, sondern handeln nach dem Prinzip des größten Nutzens für sich selbst. Die Vicani leben meist in kleinen Familien oder Gruppen zusammen, die sich um gemeinsame Interessen oder Geschäfte kümmern. Sie haben keine formelle Hierarchie oder Führung, sondern entscheiden demokratisch oder durch Verhandlungen. Die Vicani sind sehr kommunikativ und nutzen sowohl verbale als auch nonverbale Signale. Sie sprechen meist mehrere Sprachen und können sich leicht anpassen. <==Geschichte und Konflikte==> Die Vicani sind seit langer Zeit auf dem Planeten Xylo präsent, aber ihre genaue Herkunft ist unbekannt. Einige Theorien besagen, dass sie das Ergebnis einer genetischen Manipulation oder einer natürlichen Mutation sind. Andere Theorien besagen, dass sie von einem anderen Planeten stammen oder von einer alten Zivilisation abstammen. Die Vicani sind oft in Konflikte mit anderen Spezies oder Gruppen involviert, da sie ihre Interessen verteidigen oder ausnutzen wollen. Sie können sowohl Verbündete als auch Feinde sein, je nachdem, wie es ihnen nützt. Die Vicani sind auch für einige überraschende Entdeckungen und Geheimnisse verantwortlich, die das Verständnis der Welt und ihrer Geschichte beeinflussen."
     }
 ];
 
